@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "342244592244",
+    "project_id": "parents-8d291",
+    "storage_bucket": "parents-8d291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342244592244:android:90a94060420e5c1e101f21",
+        "android_client_info": {
+          "package_name": "com.example.kids360_kids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342244592244-iu9dsead5dpcv1m6pvl8l5134qs2fe6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfX3fV8eW4jxSVbd8y10LDe9_0I0-dFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342244592244-iu9dsead5dpcv1m6pvl8l5134qs2fe6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342244592244:android:0e8cb2fe6b84e785101f21",
+        "android_client_info": {
+          "package_name": "com.example.kids360_parents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342244592244-83fdo1a7ag2t267gqmkrv1k19jp7tmg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kids360_parents",
+            "certificate_hash": "9330e196cf2b0cc330e68883d95eb849b5b4e465"
+          }
+        },
+        {
+          "client_id": "342244592244-lvsl4cpg91og0qbbgs4gh2ogti11tf47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kids360_parents",
+            "certificate_hash": "a085ecd411e82daeb8280569d829895dbfdd5404"
+          }
+        },
+        {
+          "client_id": "342244592244-u5iasmd1uflvn81mu42s4js1o0nheeuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kids360_parents",
+            "certificate_hash": "c1b91cbb548ab924c1da19c648e827aa2740f7ce"
+          }
+        },
+        {
+          "client_id": "342244592244-iu9dsead5dpcv1m6pvl8l5134qs2fe6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfX3fV8eW4jxSVbd8y10LDe9_0I0-dFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342244592244-iu9dsead5dpcv1m6pvl8l5134qs2fe6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
